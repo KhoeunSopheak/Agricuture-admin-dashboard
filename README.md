@@ -385,7 +385,7 @@ View the website at: http://localhost:3000
 
 #### Get all cropCycles
 
-- **Endpoint:** `/api/crop-cycles`
+- **Endpoint:** `/api/ `
 - **Method:** `GET`
 - **Request Headers:** None
 - **Response:**
